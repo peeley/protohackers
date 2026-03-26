@@ -104,7 +104,7 @@ mod tests {
     }
 
     #[test]
-    fn test_problem2() {
+    fn test_problem1() {
         assert!(problem1().is_ok());
     }
 }
